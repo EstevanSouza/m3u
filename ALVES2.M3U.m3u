@@ -1,0 +1,619 @@
+#EXTM3U
+#EXTINF:0,TV CULTURA
+http://200.189.113.201:80/hls/tve.m3u8
+#EXTINF:0,[COLOR yellow]<====(CANAL MUSICA)====>[/COLOR]
+https://0.0.0:123
+#EXTINF:0,RADIO MONTE CARLO TV
+http://fms.105.net:1935/live/rmc1/chunklist_w1660735550.m3u8
+#EXTINF:0,RADIO 105 NETWORK TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:0,RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:0,TV CLIMA
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8?wowzasessionid=656679665
+#EXTINF:0,[COLOR yellow]<====(CANAL NOTICIA)====>[/COLOR]
+https://0.0.0:123
+#EXTINF:0,CBN NEWS
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-b.m3u8
+#EXTINF:0,CBS NEWS
+http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8
+#EXTINF:0,[COLOR yellow]<====(CANAL ESPORTE)===>[/COLOR]
+https://0.0.0:123
+#EXTINF:0,ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/chunklist_w1543708272.m3u8
+#EXTINF:0,[COLOR yellow]<====(DOCUMENTARIO)===>[/COLOR]
+https://0.0.0:123
+#EXTINF:0,DW 2
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_4_av-p.m3u8
+#EXTINF:0,DW 4
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_4_av-p.m3u8
+#EXTINF:0,HISTORY LAB
+http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w657994700.m3u8
+#EXTINF:0,[COLOR yellow]<====(FILME DUBLADO)===>[/COLOR]
+https://0.0.0:123
+#EXTINF:5691,12 HORAS 
+http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4
+#EXTINF:7399,8MM OITO MILIMETROS 
+http://media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4
+#EXTINF:6362,8MM OITO MILIMETROS 2 
+http://media-br-am.crackle.com/1/9/v6/n2zlf_480p.mp4
+#EXTINF:5446,A VOLTA DOS MORTOS VIVOS 
+http://media-br-am.crackle.com/1/z/v6/k1zlf_480p.mp4
+#EXTINF:6515,AMEAÇA VIRTUAL 
+http://media-br-am.crackle.com/1/z/16/2o1lf_480p.mp4
+#EXTINF:6106,ATRAIDOS PELO DESTINO 
+http://media-br-am.crackle.com/1/e/l6/edwlf_480p.mp4
+#EXTINF:6522,AS BRANQUELAS 
+http://media-br-am.crackle.com/1/v/96/931lf_480p.mp4
+#EXTINF:5632,APOCALIPSE 
+http://media-br-am.crackle.com/1/v/n6/g6ulf_480p.mp4
+#EXTINF:7640,ANNIE 
+http://media-br-am.crackle.com/1/s/96/z01lf_480p.mp4
+#EXTINF:6385,ANJOS DA NOITE 
+http://media-br-am.crackle.com/1/u/n6/d6ulf_480p.mp4
+#EXTINF:5547,ANJOS DA NOITE 3 
+http://media-br-am.crackle.com/1/k/om/wffyb_480p.mp4
+#EXTINF:5267,AMIGAS COM DINHEIRO 
+http://media-br-am.crackle.com/1/9/l6/vjwlf_480p.mp4
+#EXTINF:5566,A PANTERA COR DE ROSA 
+http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4
+#EXTINF:4867,A OUTRA 
+http://media-br-am.crackle.com/1/x/56/7v1lf_480p.mp4
+#EXTINF:5130,A MORTE DO DEMONIO 
+http://media-br-am.crackle.com/1/_/h6/tcwlf_480p.mp4
+#EXTINF:5754,A JANELA SECRETA 
+http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4
+#EXTINF:6142,A BEIRA DO ABISMO 
+http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4
+#EXTINF:6689,A ERA DA ESCURIDAO MUTANT CHRONICLES 
+http://media-br-am.crackle.com/1/e/f6/w4ylf_480p_1mbps.mp4
+#EXTINF:7021,A FESTA NUNCA TERMINA 
+http://media-br-am.crackle.com/1/q/f6/85ylf_480p_1mbps.mp4
+#EXTINF:7488,A GUERRA DE HART 
+http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4
+#EXTINF:6761,A GRANDE JOGADA 
+http://media-br-am.crackle.com/1/g/z6/otvlf_480p_1mbps.mp4
+#EXTINF:5798,A HERANÇA DE MR DEEDS 
+http://media-br-am.crackle.com/1/g/n6/r7ulf_480p_1mbps.mp4
+#EXTINF:6702,A INFORMANTE 
+http://media-br-am.crackle.com/1/j/l6/ydwlf_480p_1mbps.mp4
+#EXTINF:6278,A JOVEM RAINHA VICTORIA 
+http://media-br-am.crackle.com/1/y/f6/66ylf_480p.mp4
+#EXTINF:4927,A ROSA PURPURA DO CAIRO 
+http://media-br-am.crackle.com/1/_/x6/26wlf_480p.mp4
+#EXTINF:6246,A ULTIMA MISSAO 
+http://media-br-am.crackle.com/1/m/h6/16vlf_480p_1mbps.mp4
+#EXTINF:6713,ADEUS AMOR 
+http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4
+#EXTINF:6875,AFRICA DOS MEUS SONHOS 
+http://media-br-am.crackle.com/1/0/16/6o1lf_480p.mp4
+#EXTINF:7369,ALL THAT JAZZ O SHOW DEVE CONTINUAR 
+http://media-br-am.crackle.com/1/_/d6/i5vlf_480p_1mbps.mp4
+#EXTINF:5768,AMAR TRAIR E ROUBAR 
+http://media-br-am.crackle.com/1/q/v6/kkvlf_480p_1mbps.mp4
+#EXTINF:4774,AMIGO DA ONÇA 
+http://media-br-am.crackle.com/1/w/z6/ksvlf_480p.mp4
+#EXTINF:5177,APENAS UMA VEZ 
+http://media-br-am.crackle.com/1/y/f6/86ylf_480p.mp4
+#EXTINF:6032,APRENDENDO A VIVER 
+http://media-br-am.crackle.com/1/8/d6/84vlf_480p_1mbps.mp4
+#EXTINF:6148,AS COISAS IMPOSSIVEIS DO AMOR 
+http://media-br-am.crackle.com/1/y/z6/rsvlf_480p.mp4
+#EXTINF:6693,AS DUAS FACES DA LEI 
+http://media-br-am.crackle.com/1/r/v6/okvlf_480p_1mbps.mp4
+#EXTINF:7147,AS FACES DE HELEN 
+http://media-br-am.crackle.com/1/g/f6/44ylf_480p.mp4
+#EXTINF:6601,ASSALTO SOBRE TRILHOS 
+http://media-br-am.crackle.com/1/5/f6/07ylf_480p_1mbps.mp4
+#EXTINF:6106,ATRAIDOS PELO DESTINO 
+http://media-br-am.crackle.com/1/e/l6/edwlf_480p.mp4
+#EXTINF:7123,BASTIDORES DE UM CASAMENTO 
+http://media-br-am.crackle.com/1/w/v6/80zlf_480p.mp4
+#EXTINF:5243,BRINQUEDO ASSASSINO 
+http://media-br-am.crackle.com/1/j/l6/0dwlf_480p_1mbps.mp4
+#EXTINF:5806,BONS COSTUMES 
+http://media-br-am.crackle.com/1/w/96/d41lf_480p.mp4
+#EXTINF:4893,BRUNO 
+http://media-br-am.crackle.com/1/v/96/731lf_480p.mp4
+#EXTINF:6239,CAES DE GUERRA 
+http://media-br-am.crackle.com/1/p/v6/fkvlf_480p_1mbps.mp4
+#EXTINF:5330,CAMINHOS OPOSTOS 
+http://media-br-am.crackle.com/1/q/f6/a6ylf_480p_1mbps.mp4
+#EXTINF:5835,CASAMENTO AS AVESSAS 
+http://media-br-am.crackle.com/1/g/f6/34ylf_480p.mp4
+#EXTINF:5082,CATIVEIRO 
+http://media-br-am.crackle.com/1/h/z6/stvlf_480p_1mbps.mp4
+#EXTINF:6053,CORPO EM EVIDENCIA 
+http://media-br-am.crackle.com/1/j/16/97wlf_480p_1mbps.mp4
+#EXTINF:6744,CRASH NO LIMITE 
+http://media-br-am.crackle.com/1/z/z6/usvlf_480p_1mbps.mp4
+#EXTINF:6908,CAMINHO SEM VOLTA 
+http://media-br-am.crackle.com/1/t/h6/t7vlf_480p.mp4
+#EXTINF:5942,COMO SE FOSSE A PRIMEIRA VEZ 
+http://media-br-am.crackle.com/1/u/56/uv1lf_480p.mp4
+#EXTINF:8236,CONTATOS IMEDIATOS DO TERCEIRO GRAU 
+http://media-br-am.crackle.com/1/9/v6/o2zlf_480p.mp4
+#EXTINF:5603,DESAFIO RADICAL 
+http://media-br-am.crackle.com/1/w/z6/jsvlf_480p_1mbps.mp4
+#EXTINF:8222,DESAPARECIDAS
+http://media-br-am.crackle.com/1/9/l6/wjwlf_480p.mp4
+#EXTINF:6961,DIVISAO DE HOMICIDIOS 
+http://media-br-am.crackle.com/1/f/f6/z4ylf_480p_1mbps.mp4
+#EXTINF:5867,DE REPENTE 30
+http://media-br-am.crackle.com/1/s/96/y01lf_480p.mp4
+#EXTINF:5714,DESEJO A TRES 
+http://media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4
+#EXTINF:5690,DR FANTASTICO 
+http://media-br-am.crackle.com/1/z/n6/v9ulf_480p.mp4
+#EXTINF:5148,ENQUANTO ELA ESTA FORA 
+http://media-br-am.crackle.com/1/r/d6/9zvlf_480p_1mbps.mp4
+#EXTINF:6425,EQUILIBRIUM
+http://media-br-am.crackle.com/1/v/d6/n3vlf_480p_1mbps.mp4
+#EXTINF:7875,ERIN BROCKOVICH 
+http://media-br-am.crackle.com/1/j/f6/f5ylf_480p.mp4
+#EXTINF:5449,ESTRADA MALDITA 
+http://media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4
+#EXTINF:7002,ESTRANHA OBSESSAO 
+http://media-br-am.crackle.com/1/b/h6/r5vlf_480p_1mbps.mp4
+#EXTINF:6349,EU SEI QUEM ME MATOU 
+http://media-br-am.crackle.com/1/z/f6/96ylf_480p_1mbps.mp4
+#EXTINF:6070,EXCESSO DE BAGAGEM 
+http://media-br-am.crackle.com/1/v/z6/esvlf_480p_1mbps.mp4
+#EXTINF:5841,EXISTENZ 
+http://media-br-am.crackle.com/1/u/d6/m3vlf_480p_1mbps.mp4
+#EXTINF:5241,ESPIAO POR ACIDENTE 
+http://media-br-am.crackle.com/1/r/n6/0w2lf_480p.mp4
+#EXTINF:6060,ESTADO DE EMERGENCIA 
+http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4
+#EXTINF:7035,EU MINHA MULHER E MINHAS COPIAS 
+http://media-br-am.crackle.com/1/y/n6/q9ulf_480p.mp4
+#EXTINF:5889,FANTASMAS DE MARTE 
+http://media-br-am.crackle.com/1/0/16/5o1lf_480p.mp4
+#EXTINF:6116,FEITIÇO DA LUA 
+http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4
+#EXTINF:6069,FEITIÇO DO TEMPO 
+http://media-br-am.crackle.com/1/d/f6/t4ylf_480p.mp4
+#EXTINF:6852,FEMME FATALE 
+http://media-br-am.crackle.com/1/c/16/e7wlf_480p_1mbps.mp4
+#EXTINF:5512,FIDO O MASCOTE 
+http://media-br-am.crackle.com/1/y/d6/40vlf_480p_1mbps.mp4
+#EXTINF:6326,FLORES PARTIDAS 
+http://media-br-am.crackle.com/1/j/z6/0tvlf_480p_1mbps.mp4
+#EXTINF:7082,FUGA DE ABSALOM 
+http://media-br-am.crackle.com/1/w/n6/j9ulf_480p.mp4
+#EXTINF:8283,FUNNY LADY 
+http://media-br-am.crackle.com/1/0/56/hw1lf_480p.mp4
+#EXTINF:6517,FURIA NOS CAMPOS 
+http://media-br-am.crackle.com/1/x/z6/lsvlf_480p.mp4
+#EXTINF:5372,GAROTAS SELVAGENS 4
+http://media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4
+#EXTINF:6390,GATTACA A EXPERIENCIA GENETICA 
+http://media-br-am.crackle.com/1/r/z6/yuvlf_480p_1mbps.mp4
+#EXTINF:8326,GODZILLA 
+http://media-br-am.crackle.com/1/4/f6/v7ylf_480p_1mbps.mp4
+#EXTINF:5872,GRANDE HOTEL 
+http://media-br-am.crackle.com/1/5/d6/v4vlf_480p_1mbps.mp4
+#EXTINF:5513,GRETA 
+http://media-br-am.crackle.com/1/y/z6/ssvlf_480p_1mbps.mp4
+#EXTINF:7864,GUERRA AO TERROR 
+http://media-br-am.crackle.com/1/q/f6/95ylf_480p_1mbps.mp4
+#EXTINF:6475,GLERIA 
+http://media-br-am.crackle.com/1/w/n6/k6ulf_480p.mp4
+#EXTINF:7875,HONRA & CORAGEM AS QUATRO PLUMAS 
+http://media-br-am.crackle.com/1/6/d6/04vlf_480p.mp4
+#EXTINF:5905,HARLEY DAVIDSON & MARLBORO MAN:CAÇADA SEM TREGUAS 
+http://media-br-am.crackle.com/1/l/v6/zjvlf_480p.mp4
+#EXTINF:6322,HACKER PIRATAS DE COMPUTADOR 
+http://media-br-am.crackle.com/1/z/16/1o1lf_480p.mp4
+#EXTINF:5932,HAVEN 
+http://media-br-am.crackle.com/1/h/16/yaylf_480p_1mbps.mp4
+#EXTINF:6661,HEROIS IMAGINARIOS 
+http://media-br-am.crackle.com/1/f/z6/ltvlf_480p_1mbps.mp4
+#EXTINF:7824,HOMENS PERIGOSOS 
+http://media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4
+#EXTINF:6300,HORAS DE DESESPERO 
+http://media-br-am.crackle.com/1/n/v6/5jvlf_480p_1mbps.mp4
+#EXTINF:5544,HANCOCK
+http://media-br-am.crackle.com/1/u/96/631lf_480p.mp4
+#EXTINF:7312,HOTEL RUANDA 
+http://media-br-am.crackle.com/1/0/d6/a4vlf_480p.mp4
+#EXTINF:5780,IMPACTO MORTAL 
+http://media-br-am.crackle.com/1/n/v6/6jvlf_480p_1mbps.mp4
+#EXTINF:6830,INOCENTE OU CULPADO 
+http://media-br-am.crackle.com/1/t/d6/h3vlf_480p_1mbps.mp4
+#EXTINF:5724,IRONIAS DO AMOR 
+http://media-br-am.crackle.com/1/x/h6/97vlf_480p.mp4
+#EXTINF:5404,IDENTIDADE 
+http://media-br-am.crackle.com/1/8/v6/l2zlf_480p.mp4
+#EXTINF:5792,JCVD 
+http://media-br-am.crackle.com/1/5/f6/y7ylf_480p_1mbps.mp4
+#EXTINF:5823,JOGANDO COM PRAZER 
+http://media-br-am.crackle.com/1/v/z6/fsvlf_480p_1mbps.mp4
+#EXTINF:6433,JOGOS TRAPAÇAS E DOIS CANOS FUMEGANTES 
+http://media-br-am.crackle.com/1/n/um/rbeyb_480p_1mbps.mp4
+#EXTINF:6060,JOVENS BRUXAS 
+http://media-br-am.crackle.com/1/f/l6/hdwlf_480p.mp4
+#EXTINF:5263,JOGUE A MAMAE DO TREM 
+http://media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4
+#EXTINF:7402,JULIE E JULIA 
+http://media-br-am.crackle.com/1/r/n6/2w2lf_480p.mp4
+#EXTINF:5762,JUNO 
+http://media-br-am.crackle.com/1/a/56/lq1lf_480p.mp4
+#EXTINF:5754,JANELA SECRETA 
+http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4
+#EXTINF:7092,KALIFORNIA 
+http://media-br-am.crackle.com/1/r/v6/lkvlf_480p_1mbps.mp4
+#EXTINF:5270,KUNG FU FUTEBOL CLUBE 
+http://media-br-am.crackle.com/1/0/d6/83vlf_480p_1mbps.mp4
+#EXTINF:5968,KUBG FUSAO 
+http://media-br-am.crackle.com/1/s/n6/65ulf_480p.mp4
+#EXTINF:6079,KUFFS AGENTE INDOMAVEL 
+http://media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4
+#EXTINF:6195,LAUREL CANYON A RUA DAS TENTAÇOES 
+http://media-br-am.crackle.com/1/u/l6/8ewlf_480p.mp4
+#EXTINF:5355,LOUCOS ATE DE BAIXO D'AGUA 4 
+http://media-br-am.crackle.com/1/q/v6/jkvlf_480p_1mbps.mp4
+#EXTINF:6100,LEMBRANÇAS DE HOLLYWOOD 
+http://media-br-am.crackle.com/1/9/l6/zjwlf_480p.mp4
+#EXTINF:5903,LENDA URBANA 2 
+http://media-br-am.crackle.com/1/p/56/9u1lf_480p.mp4
+#EXTINF:5589,LENDA URBANA 3 A VINGAÇA DE MARY 
+http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4
+#EXTINF:7970,LENDAS DA PAIXAO 
+http://media-br-am.crackle.com/1/8/l6/ujwlf_480p.mp4
+#EXTINF:7258,LAGRIMAS DO SOL 
+http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4
+#EXTINF:13075,LAWRENCE DA ARABIA 
+http://media-br-am.crackle.com/1/i/z6/ytvlf_480p.mp4
+#EXTINF:5748,LUA DE MEL EM LAS VEGAS 
+http://media-br-am.crackle.com/1/z/f6/a7ylf_480p.mp4
+#EXTINF:6413,MALICIA 
+http://media-br-am.crackle.com/1/g/16/taylf_480p_1mbps.mp4
+#EXTINF:5503,MERGULHO RADICAL 2 
+http://media-br-am.crackle.com/1/r/v6/mkvlf_480p_1mbps.mp4
+#EXTINF:5929,MEU PRIMEIRO AMOR 
+http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4
+#EXTINF:5929,MEU PRIMEIRO AMOR 2 
+http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4
+#EXTINF:7638,MODIGLIANI PAIXAO PELA VIDA 
+http://media-br-am.crackle.com/1/w/z6/isvlf_480p_1mbps.mp4
+#EXTINF:6028,MAL POSSO ESPERAR 
+http://media-br-am.crackle.com/1/v/96/a41lf_480p.mp4
+#EXTINF:5447,MEUS QUINZE ANOS 
+http://media-br-am.crackle.com/1/j/96/uz1lf_480p.mp4
+#EXTINF:5826,MIXED NUTS 
+http://media-br-am.crackle.com/1/z/56/cw1lf_480p.mp4
+#EXTINF:6475,MULHER SOLTEIRA PROCURA 
+http://media-br-am.crackle.com/1/y/r6/2gvlf_480p.mp4
+#EXTINF:5494,MULHER SOLTEIRA PROCURA 2 
+http://media-br-am.crackle.com/1/r/n6/05ulf_480p.mp4
+#EXTINF:5033,NAO ADIANTA FUGIR 
+http://media-br-am.crackle.com/1/r/v6/nkvlf_480p_1mbps.mp4
+#EXTINF:5344,NAO E MAIS UM BESTEIROL AMERICANO 
+http://media-br-am.crackle.com/1/n/d6/tzvlf_480p_1mbps.mp4
+#EXTINF:6952,NAO SEM A MINHA FILHA 
+http://media-br-am.crackle.com/1/r/f6/c6ylf_480p.mp4
+#EXTINF:5664,NEM POR CIMA DO MEU CADAVER 
+http://media-br-am.crackle.com/1/x/h6/87vlf_480p.mp4
+#EXTINF:6319,NEM TUDO E OQUE PARECE 
+http://media-br-am.crackle.com/1/j/z6/2qvlf_480p_1mbps.mp4
+#EXTINF:5886,NA COMPANHIA DO MEDO 
+http://media-br-am.crackle.com/1/t/56/qv1lf_480p.mp4
+#EXTINF:6518,NAS PROFUNDEZAS DO MAR SEM FIM 
+http://media-br-am.crackle.com/1/1/16/cp1lf_480p.mp4
+#EXTINF:7950,NICHOLAS NICKLEBY 
+http://media-br-am.crackle.com/1/a/h6/n8vlf_480p.mp4
+#EXTINF:5510,O BALCONISTA 
+http://media-br-am.crackle.com/1/v/h6/17vlf_480p_1mbps.mp4
+#EXTINF:6860,O CANTOR 
+http://media-br-am.crackle.com/1/i/z6/wtvlf_480p_1mbps.mp4
+#EXTINF:6773,O CASAMENTO DE RACHEL 
+http://media-br-am.crackle.com/1/1/16/ap1lf_480p.mp4
+#EXTINF:7080,O COLECIONADOR DE OSSOS 
+http://media-br-am.crackle.com/1/f/f6/14ylf_480p_1mbps.mp4
+#EXTINF:7496,O DESPERTAR DE UMA PAIXAO 
+http://media-br-am.crackle.com/1/w/h6/77vlf_480p.mp4
+#EXTINF:5493,O GRANDE ANJO NEGRO 
+http://media-br-am.crackle.com/1/q/v6/invlf_480p_1mbps.mp4
+#EXTINF:5618,O GRITO 2 
+http://media-br-am.crackle.com/1/6/16/tp1lf_480p.mp4
+#EXTINF:5648,O GUARDIAO 
+http://media-br-am.crackle.com/1/k/l6/3dwlf_480p_1mbps.mp4
+#EXTINF:5524,O GUARDIAO 2 
+http://media-br-am.crackle.com/1/g/16/vaylf_480p_1mbps.mp4
+#EXTINF:5410,O GUARDIAO 3 
+http://media-br-am.crackle.com/1/i/16/4aylf_480p_1mbps.mp4
+#EXTINF:6536,O ILUSIONISTA 
+http://media-br-am.crackle.com/1/z/z6/vsvlf_480p_1mbps.mp4
+#EXTINF:5728,O INQUILINO 
+http://media-br-am.crackle.com/1/c/n6/b7ulf_480p_1mbps.mp4
+#EXTINF:6516,O JULGAMENTO DE PARIS 
+http://media-br-am.crackle.com/1/b/16/99wlf_480p_1mbps.mp4
+#EXTINF:5911,O LEGIONARIO 
+http://media-br-am.crackle.com/1/9/d6/a5vlf_480p_1mbps.mp4
+#EXTINF:6065,O OPOSTO DO SEXO 
+http://media-br-am.crackle.com/1/e/l6/gdwlf_480p.mp4
+#EXTINF:5927,O PARAISO E LOGO AQUI 
+http://media-br-am.crackle.com/1/y/d6/20vlf_480p.mp4
+#EXTINF:7767,O POVO CONTRA LARRY FLINT 
+http://media-br-am.crackle.com/1/3/16/ip1lf_480p.mp4
+#EXTINF:6081,O PRINCIPAL SUSPEITO 
+http://media-br-am.crackle.com/1/u/h6/z7vlf_480p_1mbps.mp4
+#EXTINF:5399,O RANCHO DO AMOR 
+http://media-br-am.crackle.com/1/q/v6/ikvlf_480p.mp4
+#EXTINF:6719,O RETORNO DO CAMPEAO 
+http://media-br-am.crackle.com/1/y/z6/qsvlf_480p_1mbps.mp4
+#EXTINF:6596,O SANGUE DE ROMEO 
+http://media-br-am.crackle.com/1/q/v6/hkvlf_480p_1mbps.mp4
+#EXTINF:7303,O SENHOR DAS ARMAS 
+http://media-br-am.crackle.com/1/j/z6/2tvlf_480p_1mbps.mp4
+#EXTINF:6263,O SEQUESTRO DO METRO 123 
+http://media-br-am.crackle.com/1/4/v6/3ovlf_480p.mp4
+#EXTINF:6839,O TANGO E O ASSASSINO 
+http://media-br-am.crackle.com/1/h/d6/5yvlf_480p_1mbps.mp4
+#EXTINF:6962,O VIGARISTA DO ANO 
+http://media-br-am.crackle.com/1/y/z6/psvlf_480p_1mbps.mp4
+#EXTINF:9018,OLIVER 
+http://media-br-am.crackle.com/1/6/f6/27ylf_480p.mp4
+#EXTINF:8065,OS PRODUTORES 
+http://media-br-am.crackle.com/1/d/l6/bdwlf_480p.mp4
+#EXTINF:6414,OS REIS DE DOGTOWN 
+http://media-br-am.crackle.com/1/1/n6/39ulf_480p_1mbps.mp4
+#EXTINF:6623,OS SAFADOS 
+http://media-br-am.crackle.com/1/a/16/96wlf_480p_1mbps.mp4
+#EXTINF:5286,OS SEUS OS MEU E OS NOSSOS 
+http://media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4
+#EXTINF:5296,O ABC DO AMOR 
+http://media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4
+#EXTINF:5617,O ALBERGUE 
+http://media-br-am.crackle.com/1/i/56/hr1lf_480p.mp4
+#EXTINF:5683,O ALBERGUE 2 
+http://media-br-am.crackle.com/1/r/16/68wlf_480p.mp4
+#EXTINF:6671,O APRENDIZ 
+http://media-br-am.crackle.com/1/x/n6/o9ulf_480p.mp4
+#EXTINF:6603,O CARRO ASSASSINO 
+http://media-br-am.crackle.com/1/2/n6/79ulf_480p.mp4
+#EXTINF:6048,O CHAMADO DE XANGAI 
+http://media-br-am.crackle.com/1/3/16/jp1lf_480p.mp4
+#EXTINF:6339,O CLUBE DE LEITURA DE JANE AUSTEN 
+http://media-br-am.crackle.com/1/2/d6/g4vlf_480p.mp4
+#EXTINF:8927,O CODIGO DA VINCI 
+http://media-br-am.crackle.com/1/n/z6/grvlf_480p.mp4
+#EXTINF:6740,O DESAFIO 
+http://media-br-am.crackle.com/1/4/f6/u7ylf_480p.mp4
+#EXTINF:5759,O FORASTEIRO 2 
+http://media-br-am.crackle.com/1/p/56/av1lf_480p.mp4
+#EXTINF:6092,O MELHOR AMIGO DA NOIVA 
+http://media-br-am.crackle.com/1/t/96/001lf_480p.mp4
+#EXTINF:6298,O NOME DO JOGO 
+http://media-br-am.crackle.com/1/m/56/vr1lf_480p.mp4
+#EXTINF:5585,O PAIZAO 
+http://media-br-am.crackle.com/1/1/v6/q1zlf_480p.mp4
+#EXTINF:6719,O RESGATE DE UM CAMPEAO 
+http://media-br-am.crackle.com/1/y/z6/qsvlf_480p.mp4
+#EXTINF:6103,O RITUAL 
+http://media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4
+#EXTINF:8061,O SEGREDO DE BROKEBACK MOUNTAIN 
+http://media-br-am.crackle.com/1/k/l6/2dwlf_480p.mp4
+#EXTINF:7857,O ULTIMO GRANDE HEROI 
+http://media-br-am.crackle.com/1/y/n6/s9ulf_480p.mp4
+#EXTINF:5424,OS MENSAGEIROS 
+http://media-br-am.crackle.com/1/9/16/6p1lf_480p.mp4
+#EXTINF:8040,OS MISERAVEIS 
+http://media-br-am.crackle.com/1/p/f6/55ylf_480p.mp4
+#EXTINF:5503,OS RECIFES 
+http://media-br-am.crackle.com/1/r/v6/mkvlf_480p.mp4
+#EXTINF:5831,PODER E CORRUPÇAO 
+http://media-br-am.crackle.com/1/z/n6/y9ulf_480p_1mbps.mp4
+#EXTINF:6618,POR AMOR 
+http://media-br-am.crackle.com/1/j/z6/ztvlf_480p.mp4
+#EXTINF:6618,PRIMEIRA DESCIDA 
+http://media-br-am.crackle.com/1/y/d6/30vlf_480p_1mbps.mp4
+#EXTINF:5573,PROCURANDO ENCRENCA 
+http://media-br-am.crackle.com/1/v/h6/07vlf_480p_1mbps.mp4
+#EXTINF:4760,PROCURA SE UM BUM BUM DESESPERADAMENTE 
+http://media-br-am.crackle.com/1/o/j6/byulf_480p_1mbps.mp4
+#EXTINF:5581,PROVAS E TRAPAÇAS 
+http://media-br-am.crackle.com/1/x/z6/msvlf_480p_1mbps.mp4
+#EXTINF:5824,PARAISO
+http://media-br-am.crackle.com/1/v/h6/27vlf_480p.mp4
+#EXTINF:6704,PEGAR E LARGAR 
+http://media-br-am.crackle.com/1/9/16/7p1lf_480p.mp4
+#EXTINF:6426,PERSUASAO 
+http://media-br-am.crackle.com/1/0/v6/o1zlf_480p.mp4
+#EXTINF:5222,QUANDO UM ESTRANHO CHAMA 
+http://media-br-am.crackle.com/1/p/f6/45ylf_480p.mp4
+#EXTINF:5357,QUARENTENA 
+http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4
+#EXTINF:5505,QUASE ILEGAL 
+http://media-br-am.crackle.com/1/n/v6/7jvlf_480p_1mbps.mp4
+#EXTINF:6669,RED APOSENTADOS E PERIGOSOS 
+http://media-br-am.crackle.com/1/q/f6/b6ylf_480p_1mbps.mp4
+#EXTINF:7284,REDE DE INTRIGAS 
+http://media-br-am.crackle.com/1/t/d6/i3vlf_480p_1mbps.mp4
+#EXTINF:6004,REPLICANTE 
+http://media-br-am.crackle.com/1/4/f6/w7ylf_480p_1mbps.mp4
+#EXTINF:5660,RISCO ABSOLUTO 
+http://media-br-am.crackle.com/1/b/16/aaylf_480p_1mbps.mp4
+#EXTINF:6194,ROBOCOP 
+http://media-br-am.crackle.com/1/o/d6/y2vlf_480p.mp4
+#EXTINF:7000,ROBOCOP 2 
+http://media-br-am.crackle.com/1/t/d6/g3vlf_480p.mp4
+#EXTINF:5890,RUSLAN VINGANÇA EXPLOSIVA 
+http://media-br-am.crackle.com/1/s/d6/d3vlf_480p_1mbps.mp4
+#EXTINF:8030,RAIN MAN 
+http://media-br-am.crackle.com/1/x/56/6v1lf_480p.mp4
+#EXTINF:4705,REC 
+http://media-br-am.crackle.com/1/w/v6/60zlf_480p.mp4
+#EXTINF:7339,RED CORNER 
+http://media-br-am.crackle.com/1/l/56/ur1lf_480p.mp4
+#EXTINF:6004,REPLICANTE 
+http://media-br-am.crackle.com/1/4/f6/w7ylf_480p.mp4
+#EXTINF:6035,RESIDENT EVIL O HOSPEDE MALDITO 
+http://media-br-am.crackle.com/1/b/h6/q8vlf_480p.mp4
+#EXTINF:5649,RESIDENT EVIL A EXTINÇAO 
+http://media-br-am.crackle.com/1/0/v6/n1zlf_480p.mp4
+#EXTINF:6480,RICKY BOBBY A TODA VELOCIDADE 
+http://media-br-am.crackle.com/1/x/r6/0gvlf_480p.mp4
+#EXTINF:6350,RIOS VERMELHOS 
+http://media-br-am.crackle.com/1/k/j6/uwulf_480p.mp4
+#EXTINF:6106,ROCKY BALBOA 
+http://media-br-am.crackle.com/1/x/f6/23ylf_480p.mp4
+#EXTINF:5790,SWINGER:CURTINDO A NOITE 
+http://media-br-am.crackle.com/1/u/h6/v7vlf_480p.mp4
+#EXTINF:7040,SWAT COMANDO ESPECIAL 
+http://media-br-am.crackle.com/1/k/f6/m2ylf_480p_1mbps.mp4
+#EXTINF:6667,SECRETARIA 
+http://media-br-am.crackle.com/1/-/x6/16wlf_480p_1mbps.mp4
+#EXTINF:6267,SEDUÇAO FATAL 
+http://media-br-am.crackle.com/1/w/z6/hsvlf_480p_1mbps.mp4
+#EXTINF:5501,SEDUTORA E DIABOLICA 
+http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4
+#EXTINF:5112,SEGUNDAS INTENÇOES 3 
+http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4
+#EXTINF:6862,SEM SAIDA 
+http://media-br-am.crackle.com/1/m/l6/chwlf_480p_1mbps.mp4
+#EXTINF:7388,SETE VIDAS 
+http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4
+#EXTINF:7472,SOB SUSPEITA 
+http://media-br-am.crackle.com/1/_/x6/36wlf_480p_1mbps.mp4
+#EXTINF:6725,SOCIEDADE FEROZ 
+http://media-br-am.crackle.com/1/a/l6/ycwlf_480p_1mbps.mp4
+#EXTINF:5816,SOLDADO UNIVERSAL 3 
+http://media-br-am.crackle.com/1/i/z6/utvlf_480p_1mbps.mp4
+#EXTINF:5796,SOU ESPIAO 
+http://media-br-am.crackle.com/1/m/f6/t5ylf_480p_1mbps.mp4
+#EXTINF:6131,STIGMATA 
+http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4
+#EXTINF:6795,SUPER BAD E HOJE 
+http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4
+#EXTINF:5973,SACRIFICIO 
+http://media-br-am.crackle.com/1/8/16/5p1lf_480p.mp4
+#EXTINF:7049,SEGURANDO AS PONTAS 
+http://media-br-am.crackle.com/1/z/f6/a4ylf_480p.mp4
+#EXTINF:6712,SEIS GRAUS DE SEPARAÇAO 
+http://media-br-am.crackle.com/1/_/h6/scwlf_480p.mp4
+#EXTINF:6062,SEM VESTIGIOS 
+http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4
+#EXTINF:5999,SEXO MENTIRAS E VIDEO TAPE 
+http://media-br-am.crackle.com/1/y/r6/3gvlf_480p.mp4
+#EXTINF:6378,SIMPLESMENTE ALICE 
+http://media-br-am.crackle.com/1/y/56/8v1lf_480p.mp4
+#EXTINF:5439,SUPER NOVA 
+http://media-br-am.crackle.com/1/2/16/fp1lf_480p.mp4
+#EXTINF:5555,SKYLINE A INVASAO 
+http://media-br-am.crackle.com/1/m/km/u5eyb_480p.mp4
+#EXTINF:7532,SILENT HILL TERROR 
+http://media-br-am.crackle.com/1/j/r6/efvlf_480p_1mbps.mp4
+#EXTINF:6931,TEMPOS DE VIOLENCIA 
+http://media-br-am.crackle.com/1/r/d6/b0vlf_480p_1mbps.mp4
+#EXTINF:6119,TENTACULOS 
+http://media-br-am.crackle.com/1/m/v6/1jvlf_480p_1mbps.mp4
+#EXTINF:5694,THE FINAL CUT 
+http://media-br-am.crackle.com/1/j/4l/1wcyb_480p_1mbps.mp4
+#EXTINF:6988,THE WOMAN IN THE FIFTH 
+http://media-br-am.crackle.com/1/j/il/49owb_480p_1mbps.mp4
+#EXTINF:6431,TORTURADO 
+http://media-br-am.crackle.com/1/s/d6/e3vlf_480p_1mbps.mp4
+#EXTINF:4892,TRABALHO SUJO 
+http://media-br-am.crackle.com/1/m/v6/4jvlf_480p_1mbps.mp4
+#EXTINF:6187,TRES AMIGOS 
+http://media-br-am.crackle.com/1/y/f6/76ylf_480p_1mbps.mp4
+#EXTINF:5598,TRES FORMAS DE AMAR 
+http://media-br-am.crackle.com/1/p/h6/b7vlf_480p_1mbps.mp4
+#EXTINF:6263,TRES MULHERES TRES AMORES 
+http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4
+#EXTINF:5296,TUDO QUE VOCE PRECISA SABER SOBRE SEXO 
+http://media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4
+#EXTINF:6161,THE SPIRIT 
+http://media-br-am.crackle.com/1/2/16/ep1lf_480p.mp4
+#EXTINF:7444,TRIPLO X 
+http://media-br-am.crackle.com/1/v/96/831lf_480p.mp4
+#EXTINF:6060,TRIPLO X 2 ESTADO DE EMERGENCIA 
+http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4
+#EXTINF:5741,UM AMOR DE VERAO 
+http://media-br-am.crackle.com/1/y/16/0o1lf_480p.mp4
+#EXTINF:8207,UM ATO DE LIBERDADE 
+http://media-br-am.crackle.com/1/z/f6/c7ylf_480p_1mbps.mp4
+#EXTINF:5749,UM HOMEM BOM 
+http://media-br-am.crackle.com/1/s/d6/c0vlf_480p_1mbps.mp4
+#EXTINF:5318,UM NINJA EM BEVERLY HIILS 
+http://media-br-am.crackle.com/1/d/p6/kkwlf_480p_1mbps.mp4
+#EXTINF:6477,UM PEIXE CHAMADO WANDA 
+http://media-br-am.crackle.com/1/i/f6/c2ylf_480p_1mbps.mp4
+#EXTINF:5977,UM SEGREDO ENTRE NOS 
+http://media-br-am.crackle.com/1/z/f6/b7ylf_480p.mp4
+#EXTINF:5649,UM TIRA MUITO SUSPEITO 
+http://media-br-am.crackle.com/1/f/h6/75vlf_480p_1mbps.mp4
+#EXTINF:6322,UMA BELEZA DE SALAO 
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
+#EXTINF:5648,UM CRIMINOSO DECENTE 
+http://media-br-am.crackle.com/1/q/96/p01lf_480p.mp4
+#EXTINF:8268,UM HOMEM FORA DE SERIE 
+http://media-br-am.crackle.com/1/v/n6/i6ulf_480p.mp4
+#EXTINF:6322,UM SALAO DO BARULHO 
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
+#EXTINF:5187,UMA FESTA NO AR 
+http://media-br-am.crackle.com/1/l/56/tr1lf_480p.mp4
+#EXTINF:5771,UMA GAROTA ENCANTADA 
+http://media-br-am.crackle.com/1/w/h6/57vlf_480p.mp4
+#EXTINF:5605,UMA NOIVA E TANTO 
+http://media-br-am.crackle.com/1/c/n6/96ulf_480p.mp4
+#EXTINF:6138,UMA TURMA DO BARULHO 
+http://media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4
+#EXTINF:7092,UMA VIAGEM AO INFERNO 
+http://media-br-am.crackle.com/1/r/v6/lkvlf_480p.mp4
+#EXTINF:5187,UM VOO MUITO LOUCO 
+http://media-br-am.crackle.com/1/l/56/tr1lf_480p_1mbps.mp4
+#EXTINF:6117,VAMOS NESSA 
+http://media-br-am.crackle.com/1/1/n6/69ulf_480p_1mbps.mp4
+#EXTINF:5603,VICIADO EM SEXO 
+http://media-br-am.crackle.com/1/w/v6/7kvlf_480p_1mbps.mp4
+#EXTINF:6402,VIDAS QUE SE CRUZAM 
+http://media-br-am.crackle.com/1/f/z6/ktvlf_480p.mp4
+#EXTINF:5432,VINGANÇA 
+http://media-br-am.crackle.com/1/r/d6/a0vlf_480p_1mbps.mp4
+#EXTINF:5694,VIOLAÇAO DE PRIVACIDADE 
+http://media-br-am.crackle.com/1/1/d6/c4vlf_480p_1mbps.mp4
+#EXTINF:8056,VESTIGIOS DO DIA 
+http://media-br-am.crackle.com/1/w/96/b41lf_480p.mp4
+#EXTINF:5890,VINGANÇA EXPLOSIVA 
+http://media-br-am.crackle.com/1/s/d6/d3vlf_480p.mp4
+#EXTINF:5329,VOU TE PEGAR OTARIO
+http://media-br-am.crackle.com/1/m/v6/3jvlf_480p_1mbps.mp4
+#EXTINF:5650,WASABI
+http://media-br-am.crackle.com/1/q/d6/42vlf_480p.mp4
+#EXTINF:0,[COLOR yellow]<====(CANAL ADULTO)====>[/COLOR]
+https://0.0.0:123
+#EXTINF:0,JASMIM CHANNEL
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1068947352.m3u8
+#EXTINF:309,FINEVIDS 1
+http://finevids.xxx/get_file/1/3d6feb808a0edfcedea916dfbed0f428/82000/82103/82103.mp4/
+#EXTINF:309,FINEVIDS 2
+http://finevids.xxx/get_file/1/197767f6be9c3d33665cde6f29d4f8fb/81000/81697/81697.mp4/
+#EXTINF:309,FINEVIDS 3
+http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
+#EXTINF:307,FINEVIDS 4
+http://finevids.xxx/get_file/1/0a0b117bc9a6a1ed64c0ced9cedc4f0c/81000/81667/81667.mp4/
+#EXTINF:667,GALLERIES TINY 4K 1
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+#EXTINF:714,GALLERIES TINY 4K 2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+#EXTINF:728,GALLERIES TINY 4K 3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+#EXTINF:772,GALLERIES TINY 4K 4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:746,GALLERIES TINY 4K 5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:655,GALLERIES TINY 4K 6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:754,GALLERIES TINY 4K 7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:698,GALLERIES TINY 4K 8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:636,GALLERIES TINY 4K 9
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:738,GALLERIES TINY 4K 10
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:762,GALLERIES TINY 4K 11
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
